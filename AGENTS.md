@@ -1,5 +1,9 @@
 # hunk agent notes
 
+## fork status
+
+- This checkout is a forked repo. Use the `forked-repo` skill whenever working in it, whether adding local fork changes or updating from upstream.
+
 ## purpose
 
 - Terminal-first diff viewer for understanding coding-agent changesets.
